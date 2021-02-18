@@ -1,0 +1,23 @@
+{
+  "name": "cron-dog-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsea/cron-dog-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsea/cron-dog-sdk/issues"
+  },
+  "homepage": "https://github.com/zsea/cron-dog-sdk#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-cron": "^2.0.3"
+  }
+}
